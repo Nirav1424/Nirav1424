@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nirav1424/static/css/main.b2586571.css",
+    "main.js": "/Nirav1424/static/js/main.aa43da63.js",
+    "static/js/787.6e354c4d.chunk.js": "/Nirav1424/static/js/787.6e354c4d.chunk.js",
+    "index.html": "/Nirav1424/index.html",
+    "main.b2586571.css.map": "/Nirav1424/static/css/main.b2586571.css.map",
+    "main.aa43da63.js.map": "/Nirav1424/static/js/main.aa43da63.js.map",
+    "787.6e354c4d.chunk.js.map": "/Nirav1424/static/js/787.6e354c4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2586571.css",
+    "static/js/main.aa43da63.js"
+  ]
+}
